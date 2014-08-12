@@ -1,0 +1,28 @@
+{
+  "name": "angular-navbar-zalari",
+  "version": "0.1.0",
+  "homepage": "https://github.com/zalari/angular-navbar",
+  "authors": [
+    "Christian Ulbrich (Zalari UG haftungsbeschraenkt) <christian.ulbrich@zalari.de>"
+  ],
+  "description": "Native Angular 1.2+ directive for the bootstrap 2.3 navbar component ",
+  "main": "angular-navbar.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+      "angular":"~1.2.0",
+      "bootstrap":"2.3.2"
+  }
+}
