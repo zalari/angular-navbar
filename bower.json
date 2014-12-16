@@ -9,8 +9,8 @@
   "main": "angular-navbar.js",
   "keywords": [
     "angular",
-    "angularjs",
-    "bootstrap"
+    "angularjs"
+
   ],
   "license": "MIT",
   "ignore": [
@@ -22,7 +22,6 @@
     "tests"
   ],
   "dependencies": {
-      "angular":"~1.2.0",
-      "bootstrap":"2.3.2"
+      "angular":">=1.2.0"
   }
 }
