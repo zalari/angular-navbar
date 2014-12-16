@@ -1,6 +1,6 @@
 {
   "name": "angular-navbar-zalari",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/zalari/angular-navbar",
   "authors": [
     "Christian Ulbrich (Zalari UG haftungsbeschraenkt) <christian.ulbrich@zalari.de>"
@@ -9,8 +9,8 @@
   "main": "angular-navbar.js",
   "keywords": [
     "angular",
-    "angularjs",
-    "bootstrap"
+    "angularjs"
+
   ],
   "license": "MIT",
   "ignore": [
@@ -22,7 +22,6 @@
     "tests"
   ],
   "dependencies": {
-      "angular":"~1.2.0",
-      "bootstrap":"2.3.2"
+      "angular":">=1.2.0"
   }
 }
